@@ -1,0 +1,1 @@
+This was the project that I made while learning how to use Vert.x and Kotlin. I am leaving it in as a stand in while I work on something that is near equal to the level of work I produced at work. This isn't even 10% of the work I did during my internship
